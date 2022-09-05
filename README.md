@@ -3,6 +3,6 @@
  
 ## TODO <br>
 
-Need to clean the script file
+Need to clean the script file, still Stream of Conciousness
 
 
